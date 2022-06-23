@@ -1,0 +1,8 @@
+# LogNormalize Documentation
+# Parameters
+    Input File Path [-i] : Input GCT filepath with data to be normalized
+    Output File Path [-o] : Output GCT filepath where normalized GCT 
+                            filepath should be stored
+
+#Example Command Line Use: 
+    python LogNormalize.py -i [PathtoGCF] -o [OutputFilePath]
